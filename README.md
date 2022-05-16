@@ -9,7 +9,7 @@ Add Zenodo DOI after first release
 ==============================
 
 ## Project goals
-U-Python scripts for training and applying U-Net to segment mitochondria in transmission electron microscopy images of cardiac tissue
+Python scripts for training and applying U-Net to segment mitochondria in transmission electron microscopy images of cardiac tissue
 
 ## Contents
 * [License and Citation](#license-and-citation)
