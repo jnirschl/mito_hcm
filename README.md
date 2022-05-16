@@ -1,4 +1,4 @@
-# # Supplemental code for "Correction of mitochondrial dysfunction in obstructive hypertrophic cardiomyopathy via increased complex I-mediated oxidation"
+## Supplemental code for "Correction of mitochondrial dysfunction in obstructive hypertrophic cardiomyopathy via increased complex I-mediated oxidation"
 ![GitHub](https://img.shields.io/github/license/jnirschl/mito_hcm)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 <!---
