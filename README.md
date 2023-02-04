@@ -24,20 +24,23 @@ If you use use the code or models in your research, please cite:
 
 Bibtex formatted reference:
 ```text
-@article{myProject,
-    author = {Edgar E. Nollet, Anastasiya Burdzina, Rob C.I. Wüst, Michelle Michels, Folkert W. Asselbergs, Nicole van der Wel, Kenneth C. Bedi Jr, Kenneth B. Margulies, Jeff Nirschl, Diederik W.D. Kuster, Jolanda van der Velden},
-    title = {Correction of mitochondrial dysfunction in obstructive hypertrophic cardiomyopathy via increased complex I-mediated oxidationProject},
-	journal = {},
-	volume = {},
-	number = {},
-	pages = {},
-	year = {},
-	doi = {},
-	url = {},
-	eprint = {},
-	abstract = {},
-	publisher = {},
-	version = {0.1.0},
+@ARTICLE{Nollet2023-bc,
+  title    = "Mitochondrial dysfunction in human hypertrophic cardiomyopathy is
+              linked to cardiomyocyte architecture disruption and corrected by
+              improving {NADH-driven} mitochondrial respiration",
+  author   = "Nollet, Edgar E and Duursma, Inez and Rozenbaum, Anastasiya and
+              Eggelbusch, Moritz and W{\"u}st, Rob C I and Schoonvelde, Stephan
+              A C and Michels, Michelle and Jansen, Mark and van der Wel,
+              Nicole N and Bedi, Kenneth C and Margulies, Kenneth B and
+              Nirschl, Jeff and Kuster, Diederik W D and van der Velden,
+              Jolanda",
+  journal  = "Eur Heart J",
+  month    =  feb,
+  year     =  2023,
+  address  = "England",
+  keywords = "Cardiomyocyte architecture; Hypertrophic cardiomyopathy;
+              Metabolism; Mitochondrial dysfunction; Mitochondrial therapy",
+  language = "en"
 }
 ```
 
